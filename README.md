@@ -8,5 +8,11 @@ This project thoroughly analyzes and snythesizes this data in order to uncover c
 Insights and recommendations are provided on the following key areas:
 
 Sentiment Trends Analysis:Evaluation of overall Safety, Trust, Listen, and Respect patterns over time.
+
 Demographics Impact on Sentiment Scores: Impact of Race, Age, Education, and Income on Sentiment scores.
-Performance Analysis: Evaluation of the difference in Sentiment scores over a one month period.
+
+Performance Analysis: Is there a certain neighborhood or demographic that has higher Safety, Trust, Listen, and Respect scores over time.
+
+DATA STRUCTURE & INITIAL CHECKS
+
+Police Sentiment Scores consists of one table and a total row count of 7558 records.
