@@ -13,6 +13,14 @@ Demographics Impact on Sentiment Scores: Impact of Race, Age, Education, and Inc
 
 Performance Analysis: Is there a certain neighborhood or demographic that has higher Safety, Trust, Listen, and Respect scores over time.
 
+An Interactive PowerBI dashboard can be downloaded here.
+
+The Excel pivot tables utilized to organize and prepare data for the dashboard can be found here.
+
 DATA STRUCTURE & INITIAL CHECKS
 
 Police Sentiment Scores consists of one table and a total row count of 7558 records.
+
+
+
+
