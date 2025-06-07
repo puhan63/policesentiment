@@ -21,6 +21,6 @@ DATA STRUCTURE & INITIAL CHECKS
 
 Police Sentiment Scores consists of one table and a total row count of 7558 records.
 
-![Image](https://github.com/user-attachments/assets/0d35f5bd-cf84-47a5-add1-427554f8f5a0)
+
 
 
