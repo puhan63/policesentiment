@@ -1,9 +1,9 @@
 # policesentiment
-PROJECT BACKGROUND
+**PROJECT BACKGROUND**
 
 As part of the Chicago Police Department's reform process,Chicago residents were delivered short surveys through digital ads. The surveys asked residents how safe they feel and how much trust they have in the police. Information collected also included demographics, including sex, race, education, and income level.
 
-This project thoroughly analyzes and snythesizes this data in order to uncover critical insightsthat will improvethe relationship between the Chicago Police Department and its citizens.
+This project thoroughly analyzes and snythesizes this data in order to uncover critical insights that will improve the relationship between the Chicago Police Department and its citizens.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -17,10 +17,12 @@ An Interactive PowerBI dashboard can be downloaded here.
 
 The Excel pivot tables utilized to organize and prepare data for the dashboard can be found here.
 
-DATA STRUCTURE & INITIAL CHECKS
+**DATA STRUCTURE & INITIAL CHECKS**
 
-Police Sentiment Scores consists of one table and a total row count of 7558 records.
+Police Sentiment Scores consists of one table and a total row count of 7558 records. Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The excel queries utilized to inspect and perform quality checks can be found here. There is missing data from several columns which is not concerning as the missing data makes up less than 10% of the total records. Missing data is handled by leaving it instead of using the median. The image below shows some of the columns of interest including overall Safety, Trust, Listen, and Respect. It also shows Safety, Trust, Listen, and Respect scores for each race, gender, income, and educational level. 
 
 ![Image](https://github.com/user-attachments/assets/b2c08ab9-31ac-46f5-9dba-d9ca10cdf83c)
 
+**EXECUTIVE SUMMARY**
 
+OVERVIEW OF FINDINGS
