@@ -19,6 +19,8 @@ An Interactive Excel dashboard with no imputed data for missing values can be do
 
 The Excel pivot tables utilized to organize and prepare data for the dashboard with imputed data can be found [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores%20with%20Imputed%20Data-Tables.xlsx).
 
+The Excel pivot tables utilized to organize and prepare data for the dashboard without imputed data can be found [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores%20without%20Imputed%20Data-Tables.xlsx).
+
 **DATA STRUCTURE & INITIAL CHECKS**
 
 Police Sentiment Scores consists of one table and a total row count of 7558 records. Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The excel queries utilized to inspect and perform quality checks can be found here. There is missing data from several columns which is not concerning as the missing data makes up less than 10% of the total records. Missing data is handled by leaving it instead of using the median. The image below shows some of the columns of interest including overall Safety, Trust, Listen, and Respect. It also shows Safety, Trust, Listen, and Respect scores for each race, gender, income, and educational level. 
