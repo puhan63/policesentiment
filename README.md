@@ -15,7 +15,7 @@ Insights and recommendations are provided on the following key areas:
 
 An Interactive Excel dashboard with imputed data for missing values can be downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores%20with%20Imputed%20Data.png).
 
-An Interactive Excel dashboard with no imputed data for missing values can be downloaded here.
+An Interactive Excel dashboard with no imputed data for missing values can be downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores%20without%20Imputed%20Data.png).
 
 The Excel pivot tables utilized to organize and prepare data for the dashboard with imputed data can be found [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores%20with%20Imputed%20Data-Tables.xlsx).
 
