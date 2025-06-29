@@ -17,7 +17,7 @@ An Interactive Excel dashboard with imputed data for missing values can be downl
 
 An Interactive Excel dashboard with no imputed data for missing values can be downloaded here.
 
-The Excel pivot tables utilized to organize and prepare data for the dashboard can be found here.
+The Excel pivot tables utilized to organize and prepare data for the dashboard with imputed data can be found [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores%20with%20Imputed%20Data-Tables.xlsx).
 
 **DATA STRUCTURE & INITIAL CHECKS**
 
