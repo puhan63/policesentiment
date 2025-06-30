@@ -23,7 +23,7 @@ The Excel pivot tables utilized to organize and prepare data for the dashboard w
 
 **DATA STRUCTURE & INITIAL CHECKS**
 
-The Police Sentiment Scores dataset comprises a single table containing 7,558 records. Before initiating the analysis, a series of quality control procedures and exploratory checks were conducted to ensure data integrity and build familiarity with the dataset. The Excel queries used for these inspections and validations are available [here].
+The Police Sentiment Scores dataset comprises a single table containing 7,558 records. Before initiating the analysis, a series of quality control procedures and exploratory checks were conducted to ensure data integrity and build familiarity with the dataset. The Excel queries used for these inspections and validations are available [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Missing%20Data%20Analysis.xlsx).
 
 To understand the distribution of the data, a descriptive analysis was performed, including evaluations of skewness and kurtosis, which can be reviewed [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Descriptive%20Statistics.xlsx). The distribution appeared approximately normal, with a couple of skewness and kurtosis values falling between 0.50 and 1.0 and -0.50 and -1.0, respectively.
 
