@@ -23,7 +23,13 @@ The Excel pivot tables utilized to organize and prepare data for the dashboard w
 
 **DATA STRUCTURE & INITIAL CHECKS**
 
-Police Sentiment Scores consists of one table and a total row count of 7558 records. Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The excel queries utilized to inspect and perform quality checks can be found here. There is missing data from several columns which is not concerning as the missing data makes up less than 10% of the total records. Missing data is handled by leaving it instead of using the median. The image below shows some of the columns of interest including overall Safety, Trust, Listen, and Respect. It also shows Safety, Trust, Listen, and Respect scores for each race, gender, income, and educational level. 
+The Police Sentiment Scores dataset comprises a single table containing 7,558 records. Before initiating the analysis, a series of quality control procedures and exploratory checks were conducted to ensure data integrity and build familiarity with the dataset. The Excel queries used for these inspections and validations are available [here].
+
+To understand the distribution of the data, a descriptive analysis was performed, including evaluations of skewness and kurtosis, which can be reviewed [here]. The distribution appeared approximately normal, with a couple of skewness and kurtosis values falling between 0.50 and 1.0 and -0.50 and -1.0, respectively.
+
+While several columns contain missing data, the pattern appears structured rather than random. To address this, two dashboards were developed: one incorporates imputed values for the missing data, while the other retains the original dataset without imputation. Given the normality of the distribution, the mean was selected as the imputation method.
+
+The image below shows some of the columns of interest including overall Safety, Trust, Listen, and Respect. It also shows Safety, Trust, Listen, and Respect scores for each race, gender, income, and educational level. 
 
 ![Image](https://github.com/user-attachments/assets/b2c08ab9-31ac-46f5-9dba-d9ca10cdf83c)
 
