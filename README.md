@@ -36,3 +36,16 @@ The image below shows some of the columns of interest including overall Safety, 
 **EXECUTIVE SUMMARY**
 
 OVERVIEW OF FINDINGS
+
+Sentiment scores for Safety, Trust, Listening, and Respect were highest in 2018. While scores for Listening and Respect remained elevated in 2019, they gradually declined in subsequent years.
+
+**By location**, sentiment scores peaked in Area_3 and were consistently lowest in the SOUTH region across all racial groups.
+
+**By education**, Respect received the highest sentiment ratings across all education levels, though scores declined as education levels increased.
+
+**By age**, sentiment scores for Respect, Trust, and Listening tended to decrease with age. Respect scores were highest among the middle and older age groups, while Safety scored highest among the youngest group.
+
+**By gender**, males reported higher sentiment scores across all categories compared to females.
+
+**By income**, individuals with higher incomes showed the highest sentiment scores across all categories, followed by those with medium and then low income levels.
+
