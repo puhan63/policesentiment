@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following key areas:
 
 **Performance Analysis**: Is there a certain neighborhood or demographic that has higher Safety, Trust, Listen, and Respect scores over time.
 
-An Interactive Excel dashboard with imputed data for missing values can be downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores%20with%20Imputed%20Data.png).
+An Interactive Tableau dashboard with imputed data for missing values can be downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores.twbx).
 
 An Interactive Excel dashboard with no imputed data for missing values can be downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores%20without%20Imputed%20Data.png).
 
