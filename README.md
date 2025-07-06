@@ -29,7 +29,7 @@ While several columns contain missing data, the pattern appears structured rathe
 
 The image below shows some of the columns of interest including overall Safety, Trust, Listen, and Respect. It also shows Safety, Trust, Listen, and Respect scores for each race, gender, income, and educational level. 
 
-![Image](https://github.com/user-attachments/assets/b2c08ab9-31ac-46f5-9dba-d9ca10cdf83c)
+(https://github.com/user-attachments/assets/b2c08ab9-31ac-46f5-9dba-d9ca10cdf83c)
 
 **EXECUTIVE SUMMARY**
 
