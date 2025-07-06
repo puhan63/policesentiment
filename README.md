@@ -29,7 +29,7 @@ While several columns contain missing data, the pattern appears structured rathe
 
 The image below shows some of the columns of interest including overall Safety, Trust, Listen, and Respect. It also shows Safety, Trust, Listen, and Respect scores for each race, gender, income, and educational level. 
 
-(https://github.com/user-attachments/assets/b2c08ab9-31ac-46f5-9dba-d9ca10cdf83c)
+![Image](https://github.com/user-attachments/assets/b2c08ab9-31ac-46f5-9dba-d9ca10cdf83c)
 
 **EXECUTIVE SUMMARY**
 
@@ -39,7 +39,7 @@ Sentiment scores for Safety, Trust, Listening, and Respect were highest in 2018.
 
 Below is part of the Tableau dashboard reflecting overall sentiment scores. More examples are included throughout the report. The entire interactive dashboard canbe downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores.twbx).
 
-![Image](<img width="1152" height="482" alt="Image" src="https://github.com/user-attachments/assets/5bd1f35c-1e12-4218-8b0c-3164efc5328c" />)
+(<img width="1152" height="482" alt="Image" src="https://github.com/user-attachments/assets/5bd1f35c-1e12-4218-8b0c-3164efc5328c" />)
 
 **By location**, sentiment scores peaked in Area_3 and were consistently lowest in the SOUTH region across all racial groups.
 
