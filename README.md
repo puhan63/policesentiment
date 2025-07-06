@@ -39,6 +39,8 @@ Sentiment scores for Safety, Trust, Listening, and Respect were highest in 2018.
 
 Below is part of the Tableau dashboard reflecting overall sentiment scores. More examples are included throughout the report. The entire interactive dashboard canbe downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores.twbx).
 
+![Image](<img width="1152" height="482" alt="Image" src="https://github.com/user-attachments/assets/5bd1f35c-1e12-4218-8b0c-3164efc5328c" />)
+
 **By location**, sentiment scores peaked in Area_3 and were consistently lowest in the SOUTH region across all racial groups.
 
 **By education**, Respect received the highest sentiment ratings across all education levels, though scores declined as education levels increased.
