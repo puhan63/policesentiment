@@ -17,7 +17,7 @@ An Interactive Tableau dashboard with imputed data for missing values can be dow
 
 An Interactive Tableau dashboard with no imputed data for missing values can be downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20with%20Missing%20Data.twbx).
 
-The Tableau formulas utilized to organize and prepare data for the dashboard can be found [here]
+The Tableau formulas utilized to organize and prepare data for the dashboard can be found [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Formula.xlsx).
 
 **DATA STRUCTURE & INITIAL CHECKS**
 
