@@ -35,7 +35,7 @@ The image below shows some of the columns of interest including overall Safety, 
 
 OVERVIEW OF FINDINGS
 
-Sentiment scores for Safety, Trust, Listening, and Respect were highest in 2018. While scores for Listening and Respect remained elevated in 2019, they gradually declined in subsequent years.
+Sentiment scores for Safety, Trust, Listening, and Respect were highest in 2018. While scores for Listening and Respect remained elevated in 2019, they gradually declined in subsequent years. Sentiment scores peaked in Area_3 and were consistently lowest in the SOUTH region. No data was collected from the North, South, or Central regions between 2020 and 2023.
 
 Below is part of the Tableau dashboard reflecting overall sentiment scores. More examples are included throughout the report. The entire interactive dashboard canbe downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores.twbx).
 
