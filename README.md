@@ -41,6 +41,8 @@ Below is part of the Tableau dashboard reflecting overall sentiment scores. More
 
 <img width="1152" height="482" alt="Image" src="https://github.com/user-attachments/assets/5bd1f35c-1e12-4218-8b0c-3164efc5328c" />
 
+ANALYSIS OF DEMOGRAPHICS BY AREA
+
 **By location**, sentiment scores peaked in Area_3 and were consistently lowest in the SOUTH region across all racial groups.
 
 **By education**, Respect received the highest sentiment ratings across all education levels, though scores declined as education levels increased.
@@ -51,3 +53,4 @@ Below is part of the Tableau dashboard reflecting overall sentiment scores. More
 
 **By income**, individuals with higher incomes showed the highest sentiment scores across all categories, followed by those with medium and then low income levels.
 
+<img width="1157" height="799" alt="Image" src="https://github.com/user-attachments/assets/681e8c3a-486d-475c-8ea0-1e0bd19a901c" />
