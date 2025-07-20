@@ -13,9 +13,9 @@ Insights and recommendations are provided on the following key areas:
 
 **Performance Analysis**: Is there a certain neighborhood or demographic that has higher Safety, Trust, Listen, and Respect scores over time.
 
-An Interactive Tableau dashboard with imputed data for missing values can be downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores.twbx).
+An Interactive Tableau dashboard with imputed data for missing values can be downloaded [here]
 
-An Interactive Tableau dashboard with no imputed data for missing values can be downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20with%20Missing%20Data.twbx).
+An Interactive Tableau dashboard with no imputed data for missing values can be downloaded [here].
 
 The Tableau formulas utilized to organize and prepare data for the dashboard can be found [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Formula.xlsx).
 
@@ -37,7 +37,7 @@ OVERVIEW OF FINDINGS
 
 Sentiment scores for Safety, Trust, Listening, and Respect were highest in 2018. While scores for Listening and Respect remained elevated in 2019, they gradually declined in subsequent years. Sentiment scores peaked in Area_3 and were consistently lowest in the SOUTH region. No data was collected from the North, South, or Central regions between 2020 and 2023.
 
-Below is part of the Tableau dashboard reflecting overall sentiment scores. More examples are included throughout the report. The entire interactive dashboard canbe downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20Scores.twbx).
+Below is part of the Tableau dashboard reflecting overall sentiment scores. More examples are included throughout the report. The entire interactive dashboard canbe downloaded [here].
 
 <img width="1152" height="482" alt="Image" src="https://github.com/user-attachments/assets/5bd1f35c-1e12-4218-8b0c-3164efc5328c" />
 
