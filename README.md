@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following key areas:
 
 **Performance Analysis**: Is there a certain neighborhood or demographic that has higher Safety, Trust, Listen, and Respect scores over time.
 
-An Interactive Tableau dashboard with imputed data for missing values can be downloaded [here]
+An Interactive Tableau dashboard with imputed data for missing values can be downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20New%20Dashboard.twbx).
 
 An Interactive Tableau dashboard with no imputed data for missing values can be downloaded [here].
 
