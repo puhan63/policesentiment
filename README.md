@@ -37,7 +37,7 @@ OVERVIEW OF FINDINGS
 
 Sentiment scores for Safety, Trust, Listening, and Respect were highest in 2018. While scores for Listening and Respect remained elevated in 2019, they gradually declined in subsequent years. Sentiment scores peaked in Area_3 and were consistently lowest in the SOUTH region. No data was collected from the North, South, or Central regions between 2020 and 2023.
 
-Below is part of the Tableau dashboard reflecting overall sentiment scores. More examples are included throughout the report. The entire interactive dashboard canbe downloaded [here].
+Below is part of the Tableau dashboard reflecting overall sentiment scores. More examples are included throughout the report. The entire interactive dashboard can be downloaded [here].
 
 <img width="1152" height="482" alt="Image" src="https://github.com/user-attachments/assets/5bd1f35c-1e12-4218-8b0c-3164efc5328c" />
 
