@@ -51,4 +51,4 @@ ANALYSIS OF DEMOGRAPHICS BY AREA
 
 **By income**, individuals with higher incomes showed the highest sentiment scores across all categories, followed by those with medium and then low income levels.
 
-<img width="1157" height="799" alt="Image" src="https://github.com/user-attachments/assets/681e8c3a-486d-475c-8ea0-1e0bd19a901c" />
+![image](https://github.com/puhan63/policesentiment/blob/edf48ba25949d8685753c8406959c4f4fde8050b/Demographic%20Images.png)
