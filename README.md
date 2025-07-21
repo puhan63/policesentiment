@@ -37,7 +37,7 @@ Sentiment scores for Safety, Trust, Listening, and Respect were highest in 2018.
 
 Below is part of the Tableau dashboard reflecting overall sentiment scores. More examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/puhan63/policesentiment/blob/main/Police%20Sentiment%20New%20Dashboard.twbx).
 
-<img width="1152" height="482" alt="Image" src="https://github.com/user-attachments/assets/5bd1f35c-1e12-4218-8b0c-3164efc5328c" />
+![image](https://github.com/puhan63/policesentiment/blob/7acd3300a6ff364132e853e5134536725bb773b6/Overall%20Sentiment%20Scores.png)
 
 ANALYSIS OF DEMOGRAPHICS BY AREA
 
