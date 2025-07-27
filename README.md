@@ -39,7 +39,7 @@ Below is part of the Tableau dashboard reflecting overall sentiment scores. More
 
 ![image](https://github.com/puhan63/policesentiment/blob/7acd3300a6ff364132e853e5134536725bb773b6/Overall%20Sentiment%20Scores.png)
 
-ANALYSIS OF DEMOGRAPHICS BY AREA
+ANALYSIS OF DEMOGRAPHICS
 
 **By location**, sentiment scores peaked in Area_3 and were consistently lowest in the SOUTH region across all racial groups.
 
@@ -52,3 +52,7 @@ ANALYSIS OF DEMOGRAPHICS BY AREA
 **By income**, individuals with higher incomes showed the highest sentiment scores across all categories, followed by those with medium and then low income levels.
 
 ![image](https://github.com/puhan63/policesentiment/blob/edf48ba25949d8685753c8406959c4f4fde8050b/Demographic%20Images.png)
+
+PERFORMANCE ANALYSIS
+
+
