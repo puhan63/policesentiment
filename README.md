@@ -71,3 +71,5 @@ Educational attainment also played a role in sentiment. Individuals with an adva
 
 Age-based trends were also notable. Respondents aged 55 and older gave higher ratings on Listen, Respect, and Trust, whereas individuals aged 18 to 34 reported higher Safety scores compared to older age groups.
 
+When evaluating the dataset with missing values, the overall trends remained consistent. However, in the analysis of overall sentiment by Education, Trust, and Safety received the highest scores, primarily due to the absence of data for the Listen and Respect category.
+
