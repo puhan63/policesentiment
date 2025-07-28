@@ -55,4 +55,19 @@ ANALYSIS OF DEMOGRAPHICS
 
 PERFORMANCE ANALYSIS
 
+Residents of Chicago’s Areas 3 and 5 consistently reported the highest police sentiment scores over time. These sentiment scores reflect four key dimensions: Safety, Trust, Listen, and Respect.
+
+**Safety** refers to how secure individuals feel in their neighborhoods with respect to crime.
+
+**Listen** measures the extent to which residents believe police listen to and consider community concerns.
+
+**Respect** evaluates whether residents feel they are treated with respect by the police.
+
+**Trust** is a composite measure based on the Listen and Respect indicators.
+
+Across all racial groups—including Asian American, African American, Hispanic, White, and Other—Area 3 received higher ratings. White respondents reported the highest sentiment scores across all areas, while African American respondents reported lower scores overall, with the exception of Area 3.
+
+Educational attainment also played a role in sentiment. Individuals with an advanced degree or higher reported stronger police sentiment in Area 3 than those with some college or a high school education or less. Similarly, respondents with annual household incomes of $100,000 or more expressed more favorable sentiment in Area 3.
+
+Age-based trends were also notable. Respondents aged 55 and older gave higher ratings on Listen, Respect, and Trust, whereas individuals aged 18 to 34 reported higher Safety scores compared to older age groups.
 
